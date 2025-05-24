@@ -29,4 +29,4 @@
 
 7. <ins> Capstone Project </ins> :heavy_check_mark:  
 * This project is the finale to Udacity's data engineering nanodegree. Udacity provides a default dataset however I chose to embark on my own project. 
-* My project is on building a movies data warehouse, which can be used to build a movies recommendation system, as well as predicting box-office earnings. View the project here: [Movies Data Warehouse](https://github.com/alanchn31/Udacity-Data-Engineering-Capstone)
+* My project is on building a movies data warehouse, which can be used to build a movies recommendation system, as well as predicting box-office earnings. View the project here: [Movies Data Warehouse](https://github.com/akshaybagujar1001/RedshiftFlow-Warehouse-Pipeline)
